@@ -25,7 +25,7 @@ def changeNums(noun,verb,li):
 
 if __name__ == '__main__':
     #Solution1
-    print(solution1(getNums()))
+    print(solution1(getNums())[0])
     #Solution2
     for i in range(0, 100):
         for j in range(0, 100):
