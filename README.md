@@ -4,4 +4,4 @@ AOC2019 solutions
 - https://adventofcode.com/2019/
 
 # Day3.Wrie's picture
-![image](http://github.com/GawainGao/AOC2019/tree/master/Day03/Figure_1.png)
+![image](http://github.com/GawainGao/AOC2019/Day03/Figure_1.png)
