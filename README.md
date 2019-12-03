@@ -3,5 +3,5 @@ AOC2019 solutions
 
 - https://adventofcode.com/2019/
 
-# Day3.Wrie's picture
+# Day3. Wrie's picture
 ![image](Day03/day3.jpg)
