@@ -74,7 +74,7 @@ def amplify(nums, phaseList, thrusters):
             #print('pos:',pos, ' res:',res)
             #print(nums)
     #print(res)
-    return res[0]
+    return res[0]···
 
 if __name__=="__main__":
     #with open('day7.txt') as f:
